@@ -1,0 +1,18 @@
+{
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.extraPaths": [
+        "./cbr"
+    ],
+    "python.analysis.packageIndexDepths": [
+      {
+        "name": "matplotlib",
+        "includeAllSymbols": true,
+        "depth": 20
+      },
+      {
+        "name": "networkx",
+        "includeAllSymbols": true,
+        "depth": 20
+      }
+    ]
+}

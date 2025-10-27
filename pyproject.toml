@@ -1,0 +1,25 @@
+[project]
+name = "cbr-challenge-2025"
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.11"
+
+[tool.taskipy.tasks]
+lint = "ruff check ."
+format = "ruff check . --fix && ruff format ."
+
+[tool.ruff]
+line-length = 110
+extend-exclude = ["libs"]
+
+[tool.ruff.lint]
+preview = true
+select = ["A", "B", "C", "E", "F", "I", "PL", "PT", "Q", "T", "W"]
+ignore = ["E501", "PLR6301", "PLC2401", "PLC2403", "T201", "S311", "PLR2004", "T201", "B904", "B025", "PLR0912", "PLR0911", "C901", "E722", "PLW1514", 'E116', "T203", "E701", "PLR0913", "W293", "PLR0914", "PLR0917", "PLR6201", "PLR0915"]
+
+[tool.ruff.lint.flake8-quotes]
+inline-quotes = "single"
+
+[tool.ruff.format]
+preview = true
+quote-style = "single"
