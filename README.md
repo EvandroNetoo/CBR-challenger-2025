@@ -87,7 +87,7 @@ cbr/
 │   └── estrategias/
 │       ├── estrategia_base.py      # Classe base para estratégias
 │       ├── estrategia_mapa.py      # Estratégia para navegação no mapa
-│       ├── estrategia_area_verde.py # Estratégia para área das lixeiras
+│       └── estrategia_area_verde.py # Estratégia para área das lixeiras
 ├── libs/                            # Bibliotecas de baixo nível (MariolaZero)
 │   ├── motores.py                  # Controle dos motores EV3
 │   ├── giroscopio.py               # Interface com giroscópio
