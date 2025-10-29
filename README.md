@@ -5,7 +5,7 @@
 
 ## 🏆 Campeão CBR 2025 - Categoria Challenge
 
-Este repositório contém o código-fonte desenvolvido pela **Equipe Titans da Robótica (IFES Colatina)**, campeã da **Competição Brasileira de Robótica (CBR) 2025** na categoria Challenge.
+Este repositório contém o código-fonte desenvolvido pela **Equipe Titãs da Robótica (IFES Colatina)**, campeã da **Competição Brasileira de Robótica (CBR) 2025** na categoria Challenge.
 
 A equipe decidiu disponibilizar o código para compartilhar conhecimento e ajudar outras equipes a desenvolverem suas soluções.
 
