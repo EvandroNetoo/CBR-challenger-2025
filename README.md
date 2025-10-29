@@ -1,4 +1,4 @@
-# CBR Challenge 2025 - Equipe Titans da Robótica
+# CBR Challenge 2025 - Equipe Titãs da Robótica
 
 ![CBR 2025](https://img.shields.io/badge/CBR-2025-blue)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-green)
